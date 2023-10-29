@@ -1,0 +1,40 @@
+.title2{
+    color: #103d7d;;
+    flex-direction: center;
+    margin-top: -80px;
+    margin-bottom: 20px;
+}
+.carrinho{
+    overflow-y: auto;
+    width: 100%;
+    max-width: 330px;
+    background-color: white;
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    right: 0;
+    padding: 100px 20px 20px;
+    transform: translate(110%, 0);
+}
+.sair-carrinho{
+    position: fixed;
+    top: 13px;
+    right: 18px;
+    font-size: 35px;
+    color: #333;
+}
+.cart-resume{
+    font-size: 25px;
+    font-weight: 100;
+}
+.carrinho2{
+    overflow-y: auto;
+    width: 100%;
+    max-width: 330px;
+    background-color: rgb(248, 245, 248);
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    right: 0;
+    padding: 100px 20px 20px;
+}

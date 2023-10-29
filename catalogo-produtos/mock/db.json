@@ -1,0 +1,139 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "titulo": "Dom Quixote",
+      "autor": "Miguel de Cervantes",
+      "descrição": "Um dos romances mais importantes da literatura espanhola.",
+      "preço": 29.99,
+      "capa": "https://www.lpm.com.br/livros/imagens/dom_quixote_hq_9788525433633_hd.jpg",
+      "editora": "Livraria Pedro"
+    },
+    {
+      "id": 2,
+      "titulo": "Orgulho e Preconceito",
+      "autor": "Jane Austen",
+      "descrição": "Um clássico da literatura inglesa que explora questões sociais e de gênero.",
+      "preço": 24.99,
+      "capa": "https://3.bp.blogspot.com/-Rl1B9MEzbbg/Wsz6OIXg2pI/AAAAAAAACc8/MjCiIRjm6wYQEzLzo0vT98RDi2ACI69EACLcBGAs/s1600/orgulho.jpg",
+      "editora": "Editora Jane"
+    },
+    {
+      "id": 3,
+      "titulo": "Cem Anos de Solidão",
+      "autor": "Gabriel García Márquez",
+      "descrição": "Uma obra-prima do realismo mágico na literatura latino-americana.",
+      "preço": 34.99,
+      "capa": "https://th.bing.com/th/id/OIP.i3CXipkFD-qGcV5OPOeC7gHaKu?pid=ImgDet&rs=1",
+      "editora": "Editora Gabo"
+    },
+    {
+      "id": 4,
+      "titulo": "Harry Potter e a Pedra Filosofal",
+      "autor": "J.K. Rowling",
+      "descrição": "O primeiro livro da série Harry Potter, que segue as aventuras de um jovem bruxo.",
+      "preço": 22.99,
+      "capa": "https://th.bing.com/th/id/OIP.VBCPnlOjglQFvQaI82Oq1gHaLI?pid=ImgDet&rs=1",
+      "editora": "Editora Hogwarts"
+    },
+    {
+      "id": 5,
+      "titulo": "O Senhor dos Anéis: A Sociedade do Anel",
+      "autor": "J.R.R. Tolkien",
+      "descrição": "O primeiro livro da trilogia épica de J.R.R. Tolkien, situada em um mundo de fantasia.",
+      "preço": 27.99,
+      "capa": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1657926107i/61460909.jpg",
+      "editora": "Editora Terra Média"
+    },
+    {
+      "id": 6,
+      "titulo": "Crepúsculo",
+      "autor": "Stephenie Meyer",
+      "descrição": "O primeiro livro da série Crepúsculo, que conta a história de um romance entre uma humana e um vampiro.",
+      "preço": 18.99,
+      "capa": "https://m.media-amazon.com/images/I/31NzhGnNLsL._SY445_SX342_.jpg",
+      "editora": "Editora Crepúsculo"
+    },
+    {
+      "id": 7,
+      "titulo": "A Culpa é das Estrelas",
+      "autor": "John Green",
+      "descrição": "Uma história de amor e superação de desafios, centrada em dois adolescentes com câncer.",
+      "preço": 21.99,
+      "capa": "https://m.media-amazon.com/images/I/51M9IbBqxCL._SY425_.jpg",
+      "editora": "Editora Estrela"
+    },
+    {
+      "id": 8,
+      "titulo": "O Código da Vinci",
+      "autor": "Dan Brown",
+      "descrição": "Um thriller de mistério que envolve simbologia, arte e conspirações religiosas.",
+      "preço": 25.99,
+      "capa": "https://m.media-amazon.com/images/I/41aVasi7pML._SY445_SX342_.jpg",
+      "editora": "Editora Vinci"
+    },
+    {
+      "id": 9,
+      "titulo": "Garota Exemplar",
+      "autor": "Gillian Flynn",
+      "descrição": "Um thriller psicológico sobre um casamento disfuncional e um desaparecimento misterioso.",
+      "preço": 20.99,
+      "capa": "https://m.media-amazon.com/images/I/71eIW3mRUvL._SY425_.jpg",
+      "editora": "Editora Fly"
+    },
+    {
+      "id": 10,
+      "titulo": "A Garota no Trem",
+      "autor": "Paula Hawkins",
+      "descrição": "Um suspense psicológico sobre uma mulher que se envolve em um mistério de desaparecimento.",
+      "preço": 19.99,
+      "capa": "https://m.media-amazon.com/images/I/51s6lglXdSL._SY445_SX342_.jpg",
+      "editora": "Editora Trem"
+    },
+    {
+      "id": 11,
+      "titulo": "A Revolução dos Bichos",
+      "autor": "George Orwell",
+      "descrição": "Uma sátira política que narra a revolta de animais contra os humanos em uma fazenda.",
+      "preço": 19.99,
+      "capa": "https://m.media-amazon.com/images/I/91BsZhxCRjL._SY425_.jpg",
+      "editora": "Editora Animalia"
+    },
+    {
+      "id": 12,
+      "titulo": "O Alquimista",
+      "autor": "Paulo Coelho",
+      "descrição": "Um livro inspirador que conta a história de um jovem pastor em busca de seu sonho.",
+      "preço": 17.99,
+      "capa": "https://m.media-amazon.com/images/I/51cF7jnQGBS._SY445_SX342_.jpg",
+      "editora": "Editora Alquimia"
+    },
+    {
+      "id": 13,
+      "titulo": "O Hobbit",
+      "autor": "J.R.R. Tolkien",
+      "descrição": "Uma aventura fantástica que precede os eventos de 'O Senhor dos Anéis'.",
+      "preço": 23.99,
+      "capa": "https://m.media-amazon.com/images/I/91M9xPIf10L._SY425_.jpg",
+      "editora": "Editora Hobbit"
+    },
+    {
+      "id": 14,
+      "titulo": "1984",
+      "autor": "George Orwell",
+      "descrição": "Um romance distópico que explora temas de vigilância e controle totalitário.",
+      "preço": 26.99,
+      "capa": "https://m.media-amazon.com/images/I/51feD87yuEL._SY445_SX342_.jpg",
+      "editora": "Editora Orwell"
+    },
+    {
+      "id": 15,
+      "titulo": "Para Matar um Mockingbird",
+      "autor": "Harper Lee",
+      "descrição": "Um clássico da literatura americana que aborda questões de racismo e justiça.",
+      "preço": 22.99,
+      "capa": "https://m.media-amazon.com/images/I/51i2QeW8T1L._SY445_SX342_.jpg",
+      "editora": "Editora Lee"
+    }
+  ]
+}
